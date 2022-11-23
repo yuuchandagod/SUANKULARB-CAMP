@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Suankularb_Wittayalai_School_logo.png</file>
+  </qresource>
+</RCC>
